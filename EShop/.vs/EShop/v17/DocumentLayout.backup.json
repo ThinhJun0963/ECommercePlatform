@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\prn222\\ECommercePlatform\\EShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4EA21A-5D3C-40F4-B68B-6779497C267B}|EShop.Web\\EShop.Web.csproj|d:\\prn222\\ecommerceplatform\\eshop\\eshop.web\\pages\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE4EA21A-5D3C-40F4-B68B-6779497C267B}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\pages\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4EA21A-5D3C-40F4-B68B-6779497C267B}|EShop.Web\\EShop.Web.csproj|d:\\prn222\\ecommerceplatform\\eshop\\eshop.web\\pages\\admin\\dashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE4EA21A-5D3C-40F4-B68B-6779497C267B}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\pages\\admin\\dashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944B0CA7-CCF1-4FDA-92D4-AA71D96C134D}|EShop.BLL\\EShop.BLL.csproj|d:\\prn222\\ecommerceplatform\\eshop\\eshop.bll\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{944B0CA7-CCF1-4FDA-92D4-AA71D96C134D}|EShop.BLL\\EShop.BLL.csproj|solutionrelative:eshop.bll\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944B0CA7-CCF1-4FDA-92D4-AA71D96C134D}|EShop.BLL\\EShop.BLL.csproj|d:\\prn222\\ecommerceplatform\\eshop\\eshop.bll\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{944B0CA7-CCF1-4FDA-92D4-AA71D96C134D}|EShop.BLL\\EShop.BLL.csproj|solutionrelative:eshop.bll\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41798B3-CF8D-4B79-870C-4087BA98D0A2}|EShop.DAL\\EShop.DAL.csproj|d:\\prn222\\ecommerceplatform\\eshop\\eshop.dal\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41798B3-CF8D-4B79-870C-4087BA98D0A2}|EShop.DAL\\EShop.DAL.csproj|solutionrelative:eshop.dal\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41798B3-CF8D-4B79-870C-4087BA98D0A2}|EShop.DAL\\EShop.DAL.csproj|d:\\prn222\\ecommerceplatform\\eshop\\eshop.dal\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41798B3-CF8D-4B79-870C-4087BA98D0A2}|EShop.DAL\\EShop.DAL.csproj|solutionrelative:eshop.dal\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944B0CA7-CCF1-4FDA-92D4-AA71D96C134D}|EShop.BLL\\EShop.BLL.csproj|d:\\prn222\\ecommerceplatform\\eshop\\eshop.bll\\dtos\\dashboardstatsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{944B0CA7-CCF1-4FDA-92D4-AA71D96C134D}|EShop.BLL\\EShop.BLL.csproj|solutionrelative:eshop.bll\\dtos\\dashboardstatsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cshtml.cs",
+              "DocumentMoniker": "D:\\prn222\\ECommercePlatform\\EShop\\EShop.Web\\Pages\\Admin\\Dashboard.cshtml.cs",
+              "RelativeDocumentMoniker": "EShop.Web\\Pages\\Admin\\Dashboard.cshtml.cs",
+              "ToolTip": "D:\\prn222\\ECommercePlatform\\EShop\\EShop.Web\\Pages\\Admin\\Dashboard.cshtml.cs*",
+              "RelativeToolTip": "EShop.Web\\Pages\\Admin\\Dashboard.cshtml.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T10:32:20.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\prn222\\ECommercePlatform\\EShop\\EShop.Web\\Pages\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "EShop.Web\\Pages\\Admin\\Dashboard.cshtml",
+              "ToolTip": "D:\\prn222\\ECommercePlatform\\EShop\\EShop.Web\\Pages\\Admin\\Dashboard.cshtml*",
+              "RelativeToolTip": "EShop.Web\\Pages\\Admin\\Dashboard.cshtml*",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAiwFcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-05T10:32:16.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\prn222\\ECommercePlatform\\EShop\\EShop.BLL\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "EShop.BLL\\Services\\OrderService.cs",
+              "ToolTip": "D:\\prn222\\ECommercePlatform\\EShop\\EShop.BLL\\Services\\OrderService.cs*",
+              "RelativeToolTip": "EShop.BLL\\Services\\OrderService.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T10:30:13.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\prn222\\ECommercePlatform\\EShop\\EShop.BLL\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "EShop.BLL\\Services\\IOrderService.cs",
+              "ToolTip": "D:\\prn222\\ECommercePlatform\\EShop\\EShop.BLL\\Services\\IOrderService.cs*",
+              "RelativeToolTip": "EShop.BLL\\Services\\IOrderService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T10:30:02.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\prn222\\ECommercePlatform\\EShop\\EShop.DAL\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "EShop.DAL\\Repositories\\OrderRepository.cs",
+              "ToolTip": "D:\\prn222\\ECommercePlatform\\EShop\\EShop.DAL\\Repositories\\OrderRepository.cs*",
+              "RelativeToolTip": "EShop.DAL\\Repositories\\OrderRepository.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T10:29:33.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\prn222\\ECommercePlatform\\EShop\\EShop.DAL\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "EShop.DAL\\Repositories\\IOrderRepository.cs",
+              "ToolTip": "D:\\prn222\\ECommercePlatform\\EShop\\EShop.DAL\\Repositories\\IOrderRepository.cs*",
+              "RelativeToolTip": "EShop.DAL\\Repositories\\IOrderRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T10:29:18.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DashboardStatsDto.cs",
+              "DocumentMoniker": "D:\\prn222\\ECommercePlatform\\EShop\\EShop.BLL\\DTOs\\DashboardStatsDto.cs",
+              "RelativeDocumentMoniker": "EShop.BLL\\DTOs\\DashboardStatsDto.cs",
+              "ToolTip": "D:\\prn222\\ECommercePlatform\\EShop\\EShop.BLL\\DTOs\\DashboardStatsDto.cs*",
+              "RelativeToolTip": "EShop.BLL\\DTOs\\DashboardStatsDto.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T10:28:40.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
