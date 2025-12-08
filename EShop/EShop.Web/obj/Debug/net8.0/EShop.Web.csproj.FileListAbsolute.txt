@@ -285,3 +285,4 @@ D:\prn222\code\prn232-react-frontend\EShop.Web\obj\Debug\net8.0\refint\EShop.Web
 D:\prn222\code\prn232-react-frontend\EShop.Web\obj\Debug\net8.0\EShop.Web.pdb
 D:\prn222\code\prn232-react-frontend\EShop.Web\obj\Debug\net8.0\EShop.Web.genruntimeconfig.cache
 D:\prn222\code\prn232-react-frontend\EShop.Web\obj\Debug\net8.0\ref\EShop.Web.dll
+D:\prn222\code\prn232-react-frontend\EShop.Web\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
