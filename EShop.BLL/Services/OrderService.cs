@@ -70,20 +70,17 @@ namespace EShop.BLL.Services
         {
             using (var transaction = new System.Transactions.TransactionScope(System.Transactions.TransactionScopeAsyncFlowOption.Enabled))
             {
-                // Validate Stock
+
                 foreach (var item in cartItems)
                 {
                     var product = await _productRepository.GetByIdAsync(item.ProductId);
                     if (product == null || product.StockQuantity < item.Quantity)
                     {
-                        // Tạm thời throw exception, hoặc xử lý trả về -1 để Controller redirect
-                        // Nhưng yêu cầu "redirected to Cart with error message" được xử lý ở đây không tiện.
-                        // Controller sẽ bắt exception này? Hay mình trả về ID lỗi?
+
                         throw new Exception($"Sản phẩm {product?.Name ?? "Không tìm thấy"} không đủ số lượng tồn kho.");
                     }
                 }
 
-                // Trừ kho
                 foreach (var item in cartItems)
                 {
                     var product = await _productRepository.GetByIdAsync(item.ProductId);

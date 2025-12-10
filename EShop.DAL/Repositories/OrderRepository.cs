@@ -49,9 +49,9 @@ namespace EShop.DAL.Repositories
         {
             return await _context.Orders
                 .Include(o => o.OrderDetails)
-                .ThenInclude(od => od.Product) // Lấy tên sản phẩm bên trong chi tiết
+                .ThenInclude(od => od.Product) 
                 .Where(o => o.CustomerId == customerId)
-                .OrderByDescending(o => o.OrderDate) // Đơn mới nhất lên đầu
+                .OrderByDescending(o => o.OrderDate) 
                 .ToListAsync();
         }
         public async Task UpdateOrderStatusAsync(int orderId, OrderStatus status)

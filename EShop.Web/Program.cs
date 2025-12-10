@@ -80,7 +80,6 @@ using (var scope = app.Services.CreateScope())
     {
         var context = services.GetRequiredService<EShopDbContext>();
 
-        // SQL to check if IsDeleted column exists, and if not, add it.
         var sql = @"
             IF NOT EXISTS (
                 SELECT * FROM sys.columns
